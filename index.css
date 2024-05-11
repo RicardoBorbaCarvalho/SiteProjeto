@@ -1,0 +1,352 @@
+* {
+    padding: 0;
+    margin: 0;
+}    
+.html{
+    margin: 0;
+}
+.home{
+    background-color: blue;
+    font-size: medium;
+    height: 880px;
+}
+.home{
+    background-image: url(/img/abstract-gradient-neon-lights.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}    
+
+p{
+    padding: 50px;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    
+}
+h1{
+    padding: 100px;
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+
+}
+
+.about{
+
+}
+.section{
+    background-color: rgb(6, 6, 27);
+    height: 920px;
+    display: flex;
+}
+
+
+.article img{
+    max-width: 800px;
+    height: 800px;
+    margin: 60px;
+}
+
+.article h1{
+
+}
+.article h2{
+    
+}
+
+aside{
+    border: 100px;
+}
+
+.aside h1{
+    margin: 0px;
+
+}
+.aside h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+}
+.aside h2{
+    margin: 50px;
+    padding: 10px;
+}
+
+.aside h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    color: white;
+    text-align: center;   
+}
+
+.services{
+    height: 650px;
+    width: ;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+.services h1{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+
+.services h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.services h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.services h2{
+    width: 800px;
+    height: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.services h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 10000;
+    color:rgb(226, 10, 176);
+}
+
+.services- {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 70px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.services button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    background-color:rgb(6, 6, 27);
+    color: white;
+}
+
+.portfolio{
+    background-color: black;
+    height: 550px;
+    
+}
+
+.portfolio h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+.portfolio h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.three-img {
+    background-color: black;
+    padding: px;
+}
+.three-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img-png {
+    max-width: 400px;
+    max-height: 450px;
+    margin: 15px;
+    border: ;
+
+    }  
+
+.img-png img{
+    width: 400px;
+    height: 400px;
+}  
+
+.customers{
+    background-color:;
+    height: 700px;
+    margin: auto;
+}
+
+.customers h1{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    margin: ;
+}
+
+
+.customers-four{
+    max-width: 300px;
+    max-height: 200px;
+    margin: 15px;
+    border: ;
+}  
+.customers-four  {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.customers-four img{
+    width: 300px;
+    height: 200px;
+    margin: 0 0 0 0;
+}
+
+
+.customers-success {
+    background-image: url(/img/8150248.jpg);
+    height: 800px;
+    color: white;
+}
+
+
+.success  h1  {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}    
+
+
+.comments {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.comments {
+    margin: auto;
+    max-width: 300px;
+    max-height: 400px;
+    margin: 15px;
+}
+
+.comments h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.comments h2{
+    width: 400px;
+    height: 250px;}
+
+.comments h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+.comments h3{
+    width: 400px;
+    height: 200px;
+}
+
+.contact{
+    background-color: black;
+    height: 800px;
+}
+
+
+.contact-contact{
+    background-color: rgb(0, 0, 0);
+    height: 0px;
+    display: flex;
+    
+}
+
+
+.article-2 img{
+    max-width: 600px;
+    max-height: 600px;
+    margin: 100px;
+}
+
+.my -img{
+    max-width: 400px;
+    height: 800px;
+    margin: 60px;
+}
+
+.aside-2{
+    margin: 100px;
+    padding: 10px;
+    max-width: 600px;
+    max-height: 600px;
+    border: 10px;
+
+}
+
+.aside-2 h1{
+    margin: 60px;
+    padding: 10px;
+    max-width: 450px;
+    max-height: 600px;
+}
+.aside-2 h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+}
+.aside-2 h3{
+    margin: 60px;
+    padding: 10px;
+    max-width: 450px;
+    max-height: 600px;
+}
+
+.aside-2 h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+    text-align: center;   
+}
