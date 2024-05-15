@@ -643,11 +643,13 @@ aside{
         color: white;
         text-align: center;   
     }
-@media screen and (max-width: 768px)
+
+        @media screen and (max-width: 768px)
 {
     * {
         padding: 0;
         margin: 0;
+        
     }    
     .html{
         margin: 0;
@@ -681,7 +683,6 @@ aside{
         text-align: center;
         color: white;
     }
-
     .about{
         text-align:center;
     }
@@ -801,11 +802,9 @@ aside{
         max-width: 250px;
 
     }
-
-
     .three-img {
         background-color: black;
-        padding: px;
+        
     }
     .three-img {
         display: flex;
@@ -823,7 +822,6 @@ aside{
         width: 100px;
         height: 100px;
     }
-
     .customers{
         background-color:;
         height: 600px;
@@ -843,8 +841,7 @@ aside{
     }  
     .customers-four{
         max-height: 50px;
-    }  
-    
+    }     
     .customers-four  {
         display: flex;
         flex-wrap: wrap;
@@ -861,7 +858,6 @@ aside{
         height: 1000px;
         color: white;
     }
-
     .success  h1  {
         color: white;
         font-size: 40px;
@@ -899,9 +895,6 @@ aside{
         width: 200px;
         height: 30px;
     }    
-
-
-
     .contact{
         background-color: black;
         height: 550px;   
@@ -916,7 +909,7 @@ aside{
         max-height: 300px;
         margin: 30px;
     }
-    .my - img{
+    .m y - i mg{
         max-width: 100px;
         height: 800px;
     }
